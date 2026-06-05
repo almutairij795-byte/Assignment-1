@@ -9,7 +9,7 @@ This repository contains the assignments for the **ARTI406** course. The project
 ---
 
 ## Assignment 2: Data Preprocessing Pipeline
-In this assignment, a complete preprocessing pipeline was implemented inside the Jupyter Notebook (`ARTI406 - Assignment 2.ipynb`):
+In this assignment, a complete preprocessing pipeline was implemented inside the google colab notebook (`ARTI406 - Assignment 2.ipynb`):
 
 1. **Task 1: Data Quality Issues:** Handled data type conversions (converting date strings to datetime objects) and stripped hidden whitespaces from categorical features.
 2. **Task 2: Missing Value Strategy:** Implemented **Median Imputation** to handle missing data robustly without being affected by skewed transaction amounts.
